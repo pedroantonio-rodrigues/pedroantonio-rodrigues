@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pedroantonio-rodrigues
 - 👀 I’m interested in Learn about TI
-- 🌱 I’m currently learning about programming language like: Java, Python and others.
+- 🌱 I’m currently learning about programming language like: C++, Java and Hypertext markup languange (HTML5).
       \\* At the moment I'm currently taking a degree Analysis and systems development.*//
 - 💞️ I’m looking to collaborate on the informatics universe  
 - 📫 How to reach me: Email- pedro_arxp@hotmail.com
